@@ -47,3 +47,6 @@ async def play(ctx, url):
     await ctx.send(f"Now playing: {title}")
 
 bot.run('YOUR_BOT_TOKEN_HERE')
+
+
+Заказать У меня роботку
