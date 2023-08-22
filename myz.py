@@ -48,5 +48,3 @@ async def play(ctx, url):
 
 bot.run('YOUR_BOT_TOKEN_HERE')
 
-рпрпм
-
