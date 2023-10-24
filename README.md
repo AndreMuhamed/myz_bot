@@ -1,6 +1,6 @@
 Цей код створює Discord-бота, який може приєднуватися до голосового каналу, відтворювати музику з YouTube та Spotify та від'єднуватися від каналу.
 
-Він використовує бібліотеки discord, discord.ext.commands, spotipy та youtube_dl.
+Він використовує бібліотеки discord, discord.ext.commands, spotipy та youtube_dl. кпвкарраррк
 
 Бот має три команди:
 
